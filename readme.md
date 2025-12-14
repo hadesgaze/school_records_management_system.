@@ -1,4 +1,4 @@
-![image](public/docs/.gitbook/assets/digidocu_mokup.jpg)
+
 # DigiDocu
 DigiDocu is a free, open source document management system built with laravel. Which provide easy way to 
 manage documents with features like permissions, resize & compress images, combine multiple images into single pdf, 
