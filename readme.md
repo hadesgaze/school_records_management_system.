@@ -2,3 +2,5 @@
 # School Record Management System
 School Record Management System is built with laravel. Which provide easy way to 
 manage and archived documents with features like create category and compress archived.
+
+This is used for the Biliran Province States University.
